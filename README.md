@@ -23,3 +23,7 @@ bloków od pustej przestrzeni do pustej przestrzeni. Rozwiązanie tego problemu 
 1. algorytmem znajdującym optymalne rozwiązanie - rozwiązanie, w którym do ułożenia klocków musieliśmy
 wykonać najmniej cięć kawałków
 2. wykorzystując algorytm heurystyczny - czyli algorytm nie dający gwarancji znalezienia rozwiązania optymalnego, ale umożliwiający znalezienie rozwiązania w rozsądnym czasie.
+
+### Użycie
+Sama aplikacja ma być przykładem popierającym dowód działania algorytmu.
+Aplikacja jest konsolowa i nie przyjmuje argumentów wejściowych, tylko rozwiązuje problem zaszyty w kodzie (tablica 3x6).
