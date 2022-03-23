@@ -1,4 +1,5 @@
-# Algorithms-and-computability
+# Algorithms and computability
+Pełny opis w Delivery/Docs/TAIO.pdf
 ## Wstęp
 Poniższa praca opisuje problem i rozwiązanie zadania, które można porównać do popularnej gry Tetris. Zadanie
 polega na ułożeniu w zamkniętym obszarze lub przestrzeni elementów o różnych kształtach. Występuje tu
@@ -20,9 +21,9 @@ kształt jak najbardziej zbliżony do kwadratu (na przykład prostokąt o polu 2
 Informacja o klockach przekazywana jest w pliku tekstowym w postaci kolejnych liczb mówiących ile razy występuje dany kawałek.
 Na każdym z klocków, jeśli jest to konieczne, można wykonać cięcia tak, aby otrzymać klocki o innych kształtach, składające się z mniejszej liczby bloków. Cięcia możemy wykonywać w linii prostej, wzdłuż brzegów
 bloków od pustej przestrzeni do pustej przestrzeni. Rozwiązanie tego problemu wykonamy w dwóch wariantach:
-1. algorytmem znajdującym optymalne rozwiązanie - rozwiązanie, w którym do ułożenia klocków musieliśmy
+1. Algorytmem znajdującym optymalne rozwiązanie - rozwiązanie, w którym do ułożenia klocków musieliśmy
 wykonać najmniej cięć kawałków
-2. wykorzystując algorytm heurystyczny - czyli algorytm nie dający gwarancji znalezienia rozwiązania optymalnego, ale umożliwiający znalezienie rozwiązania w rozsądnym czasie.
+2. Wykorzystując algorytm heurystyczny - czyli algorytm nie dający gwarancji znalezienia rozwiązania optymalnego, ale umożliwiający znalezienie rozwiązania w rozsądnym czasie.
 
 ### Użycie
 Sama aplikacja ma być przykładem popierającym dowód działania algorytmu.
