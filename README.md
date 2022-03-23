@@ -1,4 +1,4 @@
-# Algorithms and computability
+# Teoria algorytmów i obliczeń (Algorithms and computability)
 Pełny opis w Delivery/Docs/TAIO.pdf
 ## Wstęp
 Poniższa praca opisuje problem i rozwiązanie zadania, które można porównać do popularnej gry Tetris. Zadanie
